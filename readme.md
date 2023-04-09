@@ -3,3 +3,5 @@
 Генератор токена
 #####
 Swagger, FluentValidation, EF, Dapper, Mapper
+#####
+Postgres12
